@@ -1,0 +1,42 @@
+{
+    "assignments": [{
+      "title": "PurpleMonkeyDishwashr",
+      "topic": "JavaScript",
+      "technologiesUsed": "Vanilla JavaScript", 
+      "assignmentUrl": "https://purplemonkeydishwasher.firebaseapp.com",
+      "assignmentUrl2": "https://github.com/nss-evening-cohort-9/foundations-group-project-purplemonkeydishwashr",
+      "imageUrl":"./img/Purple Monkey Dishwasher.JPG",
+      "id": "project1",
+      "uid": "0001"
+    },
+    {
+      "title": "Pet Adoption",
+      "topic": "JavaScript",
+      "technologiesUsed": "Vanilla JavaScript", 
+      "assignmentUrl": "https://pet-adoption-895aa.firebaseapp.com/",
+      "assignmentUrl2": "https://github.com/nss-evening-cohort-9/foundations-group-project-purplemonkeydishwashr",
+      "imageUrl":"./img/Pet Adoption.JPG",
+      "id": "project2",
+      "uid": "0002"
+    },
+    {
+        "title": "Chatty Tully",
+        "topic": "JavaScript/Webpack Config",
+        "technologiesUsed":"JavaScript",
+        "assignmentUrl":"https://pet-adoption-895aa.firebaseapp.com/",
+        "assignmentUrl2":"",
+        "imageUrl": "",
+        "id": "project3",
+        "uid": "004"
+    },
+   {
+      "title": "Doggy Day Care",
+      "topic": "JavaScript/React",
+      "technologiesUsed": "React", 
+      "assignmentUrl": "www.chrome.comhttps://doggydaycare-e5942.firebaseapp.com/",
+      "assignmentUrl2": "https://github.com/CalvinDaMogul/doggy_day_care",
+      "imageUrl":"./img/Doggy Day Care.JPG",
+      "id": "project4",
+      "uid": "0003"
+    }]
+  }

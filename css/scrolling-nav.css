@@ -10,3 +10,16 @@ header {
 section {
   padding: 150px 0;
 }
+
+.pic {
+  height: 200px;
+  width: 180px;
+  margin: 0 auto;
+  display: block;
+  border-style: solid;
+}
+
+.fab {
+  margin: 4px;
+  color: whitesmoke;
+}
