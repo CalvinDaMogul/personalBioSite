@@ -23,3 +23,38 @@ section {
   margin: 4px;
   color: whitesmoke;
 }
+
+#jstag {
+  width: 95px;
+  height: 95px;
+}
+
+#hmtltag {
+  width: 100px;
+  height: 95px;
+}
+
+#csstag {
+  width: 90px;
+  height: 95px;
+}
+
+#firebasetag {
+  width: 100px;
+  height: 95px;
+}
+
+#npmtag {
+  width: 100px;
+  height: 95px;
+}
+
+#reactTag {
+  width: 100;
+  height: 95px;
+}
+
+#bootstrapTag {
+  width: 95px;
+  height: 95px;
+}
